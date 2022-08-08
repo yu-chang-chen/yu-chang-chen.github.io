@@ -12,7 +12,7 @@ I'm an assistant professor at the [Department of Economics, National Taiwan Univ
 
 ---
 
-My research interests include
+My research interests include:
 - Personalized treatment rules
 - Empirical Bayes methods
 - Causal inference and selection models
