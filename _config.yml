@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu-Chang Chen 陳由常"
+title                    : "Yu-Chang Chen"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yu-Chang Chen 陳由常"
+description              : &description "Assistant Professor @ NTU Economics"
+url                      : https://yu-chang-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://yu-chang-chen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yu-Chang Chen 陳由常"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Assistant Professor @ NTU Economics"
+  location         : "Taipei, Taiwan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?&view_op=list_works&gmla=AJsN-F6ABhy4a8rxrh4rR8dgXBhQcYTWSY0-9EjPHkb4siILPCHneidRvsdXutBZjp46ZLygFlHulLawS8PIMm1OYVhsxgT4Fmu-CBeIMsoJMk1fZNw9Fek&user=fFu2ujYAAAAJ"
+  email            : "yuchangchen@ntu.edu.tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "yu-chang-chen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3851-6902"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
