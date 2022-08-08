@@ -1,0 +1,13 @@
+---
+title: "Data Science and Social Inquiry"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/econ-5516
+venue: "Department of Economics, National Taiwan University"
+date: 2022-09-05
+location: "Taipei, TW"
+---
+
+[Syllabus](https://docs.google.com/document/d/1Va_CnqUgMtGCAO6hRUENvu4F7j2KTsWAXSBxKP0OZ0M/edit?usp=sharing)
+
+This is an introductory course to “classical” machine learning (ML) methods (e.g., decision trees, LASSO, …etc.) with an emphasis on their applications in social science research. This course is most suitable for students who have finished their first statistics course, have some experience in data manipulation, and would like to explore the ideas behind machine learning. 
