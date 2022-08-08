@@ -5,7 +5,7 @@ collection: research
 permalink: /research/2021-12-global-representation-conditional-late
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-12-07
-coauthor: 'Yu-Chang Chen'
+coauthor: 'Haitian Xie'
 month: 'Dec 2021'
 venue: 'Oxford Bulletin of Economics and Statistics'
 paperurl:  https://doi.org/10.1111/obes.12476
