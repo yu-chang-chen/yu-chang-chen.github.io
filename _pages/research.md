@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publication
 
-### "Global Representation of the Conditional LATE Model: A Separability Result", with *[Haitian Xie](https://www.haitianxie.org)*, **Oxford Bulletin of Economics and Statistics**. [\[Published Version\]](https://onlinelibrary.wiley.com/doi/10.1111/obes.12476) [\[WP Version\]](https://arxiv.org/abs/2007.08106)
+### "Global Representation of the Conditional LATE Model: A Separability Result", with *[Haitian Xie](https://www.haitianxie.org)*, **Oxford Bulletin of Economics and Statistics**. [\[Published Version\]](https://onlinelibrary.wiley.com/doi/10.1111/obes.12476) [\[WP Version\]](https://arxiv.org/abs/2007.08106) [\[Talk @ AMES 2022\]](https://www.koushare.com/video/videodetail/29700?fbclid=IwAR1VhK__ONEnj-hS_3bkup946o_1j6JSrx3EAfVy2QdFg4Ksz_yeHEes5hc)
 
 This paper studies the latent index representation of the conditional LATE model, making explicit the role of covariates in treatment selection. We ﬁnd that if the directions of the monotonicity condition are the same across all values of the conditioning covariate, which is often assumed in the literature, then the treatment choice equation has to satisfy a separability condition between the instrument and the covariate. This global representation result establishes testable restrictions imposed on the way covariates enter the treatment choice equation. We later extend the representation theorem to incorporate multiple ordered levels of treatment.
 
