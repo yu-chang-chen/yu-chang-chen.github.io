@@ -9,6 +9,10 @@ author_profile: true
 
 ## Publication
 
+### "The Impact of Loosening Concealed Carry Laws on Firearm Demand", with *[Jessica Jumee Kim](https://faculty.unibocconi.eu/jessicajumeekim/)*, Accepted at **Marketing Science**.
+
+Since 2021, 14 states have loosened Concealed Carry Weapon (CCW) laws. This research investigates the impact of loosening CCW laws on legal firearm purchases.  Specifically, we explore CCW Shall Issue adoption, which removes local authority discretion on permit issuance, and CCW Permitless Carry, the least restrictive policy. We construct both state and county-month panel datasets covering 2010 to 2017, using background checks and online firearm retail purchase data. We find that CCW Shall Issue adoption increases gun purchases, particularly new handguns. Over 70% of this increase is driven by repeat gun buyers. The increase in handguns induced by CCW Shall Issue is substantially greater in high crime and urban areas. In contrast, CCW Permitless Carry has no effect on gun purchases.  
+
 ### "Global Representation of the Conditional LATE Model: A Separability Result", with *[Haitian Xie](https://www.haitianxie.org)*, **Oxford Bulletin of Economics and Statistics**. [\[Published Version\]](https://onlinelibrary.wiley.com/doi/10.1111/obes.12476) [\[WP Version\]](https://arxiv.org/abs/2007.08106)
 
 This paper studies the latent index representation of the conditional LATE model, making explicit the role of covariates in treatment selection. We ﬁnd that if the directions of the monotonicity condition are the same across all values of the conditioning covariate, which is often assumed in the literature, then the treatment choice equation has to satisfy a separability condition between the instrument and the covariate. This global representation result establishes testable restrictions imposed on the way covariates enter the treatment choice equation. We later extend the representation theorem to incorporate multiple ordered levels of treatment.
