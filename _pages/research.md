@@ -9,7 +9,7 @@ author_profile: true
 
 ## Publication
 
-### "The Impact of Loosening Concealed Carry Laws on Firearm Demand", with *[Jessica Jumee Kim](https://faculty.unibocconi.eu/jessicajumeekim/)*, Accepted at **Marketing Science**.
+### "The Impact of Loosening Concealed Carry Laws on Firearm Demand", with *[Jessica Jumee Kim](https://faculty.unibocconi.eu/jessicajumeekim/)*, accepted at **Marketing Science**.
 
 Since 2021, 14 states have loosened Concealed Carry Weapon (CCW) laws. This research investigates the impact of loosening CCW laws on legal firearm purchases.  Specifically, we explore CCW Shall Issue adoption, which removes local authority discretion on permit issuance, and CCW Permitless Carry, the least restrictive policy. We construct both state and county-month panel datasets covering 2010 to 2017, using background checks and online firearm retail purchase data. We find that CCW Shall Issue adoption increases gun purchases, particularly new handguns. Over 70% of this increase is driven by repeat gun buyers. The increase in handguns induced by CCW Shall Issue is substantially greater in high crime and urban areas. In contrast, CCW Permitless Carry has no effect on gun purchases.  
 
